@@ -1,7 +1,7 @@
-<h1 align="center"> Projeto DrumKit Base - Aplicação web com som de bateria. </h1>
+<h1 align="center"> Projeto Clock Base - Aplicação web relogio digital e analogico. </h1>
 
 <p align="center">
-Projeto desenvolvido para demostração dos meus projetos pessoal portfolio  <br/>
+Projeto desenvolvido para demostração dos meus projetos pessoais portfolio. <br/>
 <a href="#"></a>
 </p>
 
@@ -19,7 +19,7 @@ Projeto desenvolvido para demostração dos meus projetos pessoal portfolio  <br
 <br>
 
 <p align="center">
-  <img alt="projeto alura+" src="./imgs/git-capa.png" width="100%">
+  <img alt="projeto alura+" src="./imgs/capa-git.png" width="100%">
 </p>
 <br>
 
